@@ -1,4 +1,4 @@
 Members:
 Camilla Dall Malling
-Ella Halldorsdottir
+Ella Halldórsdóttir
 Svetoslav Radoslavov Trifonov
